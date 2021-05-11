@@ -18,6 +18,10 @@ body {
   background-color: #808080;
   padding: 20px;
 }
+h1,h2,h3{
+    color: #696969;
+}
+
 .item4 {
   height: 50px;
 }
