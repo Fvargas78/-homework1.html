@@ -21,9 +21,14 @@ body {
 h1,h2,h3{
     color: #696969;
 }
-
+p{
+    text-align: inherit;
+}
 .item4 {
   height: 50px;
+}
+.item2{
+    width: 120px;
 }
 
 .grid-container > div {
